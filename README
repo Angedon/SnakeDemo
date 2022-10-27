@@ -1,0 +1,1 @@
+This is just an example of Python code. I used pygame module here module. 
